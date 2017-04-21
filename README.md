@@ -1,5 +1,5 @@
 # mcp3008gpiozero
-<h2>simple usage of MCP3008<h2> 
+simple usage of MCP3008
 
 This code is used to interface with 4 electrical devices namely potentiometer, LDR, and temperature sensors MCP9701 & MCP9700.
 Only gpiozero libraries required for this simple test.
